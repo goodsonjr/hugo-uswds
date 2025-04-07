@@ -44,14 +44,14 @@
   .usa-hero__callout {
     background-color: transparent;
     p {
-      color: color('gray-70');
+      color: "gray-70";
     }
   }
   .usa-hero__heading {
-    color: color('gray-60');
+    color: "gray-60";
   }
   .usa-hero__heading--alt {
-    color: color('black');
+    color: "black";
   }
 
   .usa-section--light {
@@ -60,14 +60,14 @@
 
   .usa-section--dark {
     background-color: transparent;
-    color: color('black');
+    color: "black";
 
     .usa-media-block__body {
       .usa-graphic-list__heading {
-        color: color('black');
+        color: "black";
       }
       p {
-        color: color('gray-70');
+        color: "gray-70";
       }
     }
   }
