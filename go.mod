@@ -1,3 +1,3 @@
-module github.com/usnistgov/hugo-uswds
+module github.com/goodsonjr/hugo-uswds
 
 go 1.21
